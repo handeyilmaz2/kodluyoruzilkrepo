@@ -23,6 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 ----------------------------------------------
 [MIT](https://opensource.org/licenses/MIT)
+----------------------------------------------
 
 ![Gorsel](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan.png)
 
